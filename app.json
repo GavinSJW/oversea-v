@@ -1,7 +1,7 @@
 {
     "name": "oversea-v",
     "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "keywords": ["oversea-v"],
     "env": {
         "ID": {
             "description": "UUID",
